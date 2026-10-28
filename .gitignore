@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+
+# Dados
+*.parquet
+*.csv
+*.db
+*.duckdb
+*.sqlite
+*.sqlite3
+
+# Backups
+*.bak
+*.backup
+*.dump
+*.zip
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.pyc
+*.pyo
+
+# Compilação
+build/
+dist/
+
+# IDE
+.idea/
+.vscode/
+
+# Arquivos locais
+New Text Document.txt
+Novo(a) Documento de Texto.txt
